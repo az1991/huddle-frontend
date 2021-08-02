@@ -1,0 +1,42 @@
+body{
+  margin:5%;
+  background-image:url(../images/bg-desktop.svg);
+  background-color: white;
+  background-color: hsl(257, 40%, 49%);
+  font-family: sans-serif;
+}
+
+.logo{
+  margin-bottom:2%;
+}
+
+.illustration{
+  float: left;
+  margin-right: 7%;
+}
+
+
+.text-box-header{
+  color:white;
+  font-size:33px;
+  padding-top: 5%;
+  line-height:1.4;
+}
+
+.text-box-text{
+  color:white;
+  font-size:15px;
+  line-height: 1.6;
+}
+
+.register-button{
+  padding:14px 55px;
+  color: purple;
+  border-radius: 30px;
+  cursor:pointer;
+}
+
+
+.footer{
+clear: left;
+}
